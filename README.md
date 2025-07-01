@@ -2,7 +2,7 @@
 
 A modern chat application built with React and Flask that integrates with OpenAI's API to provide an interactive AI assistant experience.
 
-![AI Chat Assistant Screenshot](screenshot.png)
+![AI Chat Assistant Screenshot](images/screenshot.png)
 
 ## Features
 
